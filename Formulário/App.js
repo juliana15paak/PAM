@@ -66,7 +66,7 @@ export default function App() {
         >
           <Picker.Item label="Programar" value="programar"/>
           <Picker.Item label="Ler" value="ler"/>
-          <Picker.Item label="Escrever" value="ler"/>
+          <Picker.Item label="Escrever" value="escrita"/>
           <Picker.Item label="Ouvir música" value="msc"/>
         </Picker>
       </View>
