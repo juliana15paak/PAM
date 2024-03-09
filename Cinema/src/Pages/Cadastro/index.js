@@ -66,4 +66,3 @@ export default function Cadastro() {
     </View>
   );
 }
-//  <Image source={require("./../../../assets/Entrar.png")}style={styles.botaoImg} />
